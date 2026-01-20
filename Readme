@@ -1,0 +1,21 @@
+🔐 Responsive Admin Login Portal
+This repository contains the source code for the Modern Admin Login interface featured on my YouTube channel. This project focuses on high-quality UI/UX, responsive layouts, and clean frontend architecture.
+📺 Watch the Development
+
+✨ Features
+• Modern UI/UX: A glassmorphism-inspired design with a dark mode aesthetic.
+• Custom Animations: Smooth CSS transitions for input focus and button hovering.
+• Fully Responsive: Optimized for all screen sizes (Mobile, Tablet, and Desktop).
+• Form Validation: Built-in client-side validation for email and password fields.
+• Interactive Elements: Includes "Remember Me" and "Forgot Password" functionality stubs.
+🛠️ Tech Stack
+• HTML5: Structured for accessibility and SEO.
+• CSS3: Custom properties (variables), Flexbox, and Keyframe animations.
+• Icons: Ionicons integration for a premium look.
+• Fonts: Google Fonts (Poppins).
+
+📂 File Structure
+├── Admin.html   # Main structure of the login portal
+├── style.css    # Custom styles and animations
+├── assets/      # Background images and logos
+└── README.md    # Project documentation
